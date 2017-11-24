@@ -1,5 +1,5 @@
 # MTMCT
-Multi Target Multi Camera Tracking. For more infomation, check out the [paper](./Multi-Camera Tracking Exploiting Person Re-ID Technique.pdf) published on ICONIP 2017.
+Multi Target Multi Camera Tracking. For more infomation, check out the [paper](/Multi-Camera Tracking Exploiting Person Re-ID Technique.pdf) published on ICONIP 2017.
 
 ## Dataset
 [DukeMTMCT Dataset](http://vision.cs.duke.edu/DukeMTMC/details.html)
